@@ -1,3 +1,4 @@
+
 # Calculator
 Calculator React App that implements the concept of React with Redux. 
 
@@ -44,6 +45,53 @@ That's all run the following command and enjoy!
 ```
 npm start
 ```
+
+### Folder Structure
+
+After creation, your project should look like this:
+
+```
+Calculator/
+  README.md
+  LICENSE
+  package.json
+  CONTRIBUTING.md
+  public/
+    index.html
+    favicon.ico
+    manifest.json
+  src/
+    actionCreators/
+      actionCreator.js
+    actions/
+      actions.js
+    components/
+      CalculatorApp.js
+      FinalResult.js
+      KeyPad.js
+    containers/
+      CalculatorContainer.js
+    css/
+      index.css
+    reducers/
+      reducer.js
+    validations/ 
+      validator.js
+    index.js    
+```
+
+For the project to build, **these files must exist with exact filenames**:
+
+* `public/index.html` is the page template;
+* `src/index.js` is the JavaScript entry point.
+
+You can delete or rename the other files.
+
+You may create subdirectories inside `src`. For faster rebuilds, only files inside `src` are processed by Webpack.
+
+Only files inside `public` can be used from `public/index.html`.
+
+You can, however, create more top-level directories.
 
 ## Built With
 
