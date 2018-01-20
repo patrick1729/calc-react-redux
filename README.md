@@ -48,8 +48,9 @@ npm start
 ## Built With
 
 * [ReactJS](https://reactjs.org/) - The web framework used
-* [jQuery](https://jquery.com/) - For animations
+* [Redux](https://redux.js.org/) - For state management
 * [ECMASCRIPT 6](http://es6-features.org/#Constants) - Standard used to write Javascript code
+* [Babel](https://babeljs.io/) - Transpiler used
 
 ## Contributing
 
