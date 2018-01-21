@@ -19,17 +19,17 @@ npm -v
 ```
 If you have ```npm``` 5.2.0+ installed, you may use npx:
 ```
-npx create-react-app Calculator
+npx create-react-app calculator
 
-cd Calculator
+cd calculator
 ```
 else run the command : 
 ```
 npm install -g create-react-app
 
-create-react-app Calculator
+create-react-app calculator
 
-cd Calculator
+cd calculator
 ```
 Create React App is the best way to start building a new React single page application. It sets up your development environment so that you can use the latest JavaScript features, provides a nice developer experience, and optimizes your app for production. Create React App doesn’t handle backend logic or databases; it just creates a frontend build pipeline, so you can use it with any backend you want. It uses build tools like Babel and webpack under the hood, but works with zero configuration.
 
@@ -39,7 +39,7 @@ npm install react-redux
 
 npm install redux
 ```
-After installation change the ```src``` folder of the ```Calculator``` app just created with the ```src``` folder of this repository that you have cloned on your personal machine.
+After installation replace the ```src``` and ```public``` directories of the ```calculator``` app just created with the ```src``` and ```public``` directories of this repository that you have cloned on your personal machine.
 
 That's all run the following command and enjoy! 
 ```
@@ -51,7 +51,7 @@ npm start
 After creation, your project should look like this:
 
 ```
-Calculator/
+calculator/
   README.md
   LICENSE
   package.json
