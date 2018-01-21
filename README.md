@@ -42,6 +42,7 @@ npm install redux
 After installation replace the ```src``` and ```public``` directories of the ```calculator``` app just created with the ```src``` and ```public``` directories of this repository that you have cloned on your personal machine.
 
 That's all run the following command and enjoy! 
+
 ```
 npm start
 ```
@@ -77,7 +78,8 @@ calculator/
       reducer.js
     validations/ 
       validator.js
-    index.js    
+    index.js 
+    createServiceWorker.js
 ```
 
 For the project to build, **these files must exist with exact filenames**:
