@@ -1,6 +1,5 @@
-
 # Calculator
-Calculator React App that implements the concept of React with Redux. 
+Calculator React App that implements the concept of React with Redux. Click [here](https://calc-x.herokuapp.com/) for preview.
 
 ## Getting Started
 
