@@ -96,7 +96,7 @@ You can, however, create more top-level directories.
 
 ## Built With
 
-* [ReactJS](https://reactjs.org/) - The web framework used
+* [ReactJS](https://reactjs.org/) - JavaScript library used for UI
 * [Redux](https://redux.js.org/) - For state management
 * [ECMASCRIPT 6](http://es6-features.org/#Constants) - Standard used to write Javascript code
 * [Babel](https://babeljs.io/) - Transpiler used
