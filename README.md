@@ -101,6 +101,11 @@ You can, however, create more top-level directories.
 * [ECMASCRIPT 6](http://es6-features.org/#Constants) - Standard used to write Javascript code
 * [Babel](https://babeljs.io/) - Transpiler used
 
+## Screenshots
+
+![screenshot-2](https://user-images.githubusercontent.com/9201182/35629940-f37174b6-06c5-11e8-8722-486fa9271048.jpg)
+![screenshot-3](https://user-images.githubusercontent.com/9201182/35630345-3153c2b0-06c7-11e8-97f2-8cc944d560cf.jpg)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/prateekmishra-95/Calculator/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
