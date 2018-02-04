@@ -53,6 +53,7 @@ After creation, your project should look like this:
 ```
 calculator/
   README.md
+  node_modules
   LICENSE
   package.json
   CONTRIBUTING.md
